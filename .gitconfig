@@ -1,0 +1,9 @@
+[user]
+ email=vsvsvs08@rambler.ru
+ name=savrasov
+
+[alias]
+ co = checkout
+ ci = commit
+ st = status
+ br = branch
